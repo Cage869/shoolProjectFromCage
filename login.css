@@ -1,0 +1,36 @@
+body{
+    background: url(Images/8.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.formDesign{
+    padding-top: 80px ;
+}
+
+.pass{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: aqua;
+    
+    
+}
+form{
+    background-color: black;
+    width: 400px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.formHeader{
+    background-color: aquamarine;
+    color: rgb(10, 71, 40);
+    text-align: center;
+    font-weight: 200;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
